@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laniakea04
+- 👋 Hi, I’m Dhikra
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front-end dev
 - 💞️ I’m looking to collaborate on ...
